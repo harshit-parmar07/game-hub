@@ -5,7 +5,7 @@ const SortSelector = () => {
   return (
     <Menu>
       <MenuButton as={Button} rightIcon={<BsChevronBarDown />}>
-        Order BY Relevance
+        Order by: Relevance
       </MenuButton>
       <MenuList>
         <MenuItem>Relevance</MenuItem>
