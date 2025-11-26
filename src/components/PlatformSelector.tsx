@@ -1,5 +1,4 @@
-import { Platform } from "@/hooks/useGames";
-import usePlatforms from "@/hooks/usePlatforms";
+import usePlatforms, { Platform } from "@/hooks/usePlatforms";
 import { Button, Menu, MenuButton, MenuItem, MenuList } from "@chakra-ui/react";
 import { BsChevronBarDown } from "react-icons/bs";
 
